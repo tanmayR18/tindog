@@ -1,7 +1,7 @@
 
 # Tindog
 
-This is simple website of dog to find friends inspired from Tinder
+This is simple website of dog to find friends inspired from Tinder. 
 
 
 ## Demo
