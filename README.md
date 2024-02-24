@@ -34,5 +34,5 @@ Click on the link given below or follow the instrucations given below to run the
 
 ## Live Link
 
-https://kaleidoscopic-douhua-7e8df1.netlify.app/
+https://tindog-website-18.netlify.app/
 
